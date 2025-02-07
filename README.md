@@ -1,3 +1,3 @@
 # python-in-detail.-
-pcc 3e and py cc topics are covered in detail for later work. SELF DOCUMENTATION
+PCC 3e and PYCC topics are covered in detail for later work. SELF DOCUMENTATION
 
